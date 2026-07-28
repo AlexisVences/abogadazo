@@ -1,0 +1,9 @@
+Flask
+flask-cors
+faiss-cpu
+langchain
+langchain-community
+langchain-ollama
+pypdf
+psycopg2-binary
+python-dotenv
